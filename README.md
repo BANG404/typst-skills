@@ -88,6 +88,10 @@ Install via [Claude Code](https://claude.ai/code) with:
 claude skills install BANG404/TYPST-SKILLS
 ```
 
+## License
+
+MIT License — see [LICENSE](LICENSE) for details.
+
 ## Resources
 
 - [Typst Documentation](https://typst.app/docs)
